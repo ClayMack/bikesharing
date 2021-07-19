@@ -61,6 +61,13 @@ This project is an analysis of New York Citi Bike data, using Tableau data visua
 
 <br>
 
+## Summary
+From this analysis, most of the rides started in Manhattan, and were taken by male users during morning and evening rush hours.The majority of the users were subscribers. This may indicate that Citi Bike rentals are being used as an alternative to other forms of transportation by commuters.\
+Additional analysis would be beneficial by:
+
+- Looking at the trends across the entire year
+
+- Incorporating weather patterns to see if temperature trends affect usage
 
 
 
